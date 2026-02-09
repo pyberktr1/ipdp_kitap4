@@ -8,3 +8,5 @@ Kitabı bitiren okuyucu, profesyonel manada yüksek performanslı uygulamaları 
 
 Kitap indirme linkleri:
 https://lnkd.in/dvj9CNaS
+
+https://www.lulu.com/shop/bilgehan-erkal/paralel-programlama-teknikleri/ebook/product-4566y7m.html?page=1&pageSize=4
