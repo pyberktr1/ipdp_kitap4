@@ -7,4 +7,4 @@ Kitapta üç temel paralel programlama tekniği, etkili ve pratik örneklerle su
 Kitabı bitiren okuyucu, profesyonel manada yüksek performanslı uygulamaları hayata geçirebilmek için gerekli tüm bilgilerle donanmış olacaktır. Yazar, şimdi sizi, bu heyecanlı yolculukta, Python uygulamalarınızı yarıştırmaya davet ediyor. Var mısınız sıkı bir yarışa? O halde artık yarış Python arenasında başlasın!
 
 Kitap indirme linkleri:
-
+https://lnkd.in/dvj9CNaS
